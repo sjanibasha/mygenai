@@ -154,9 +154,8 @@ const Candidate = () => {
             setLoading(false);
         }
     };
-useEffect(()=>
-    {},[]
-)
+
+
 
     return (
         <div className="card">
