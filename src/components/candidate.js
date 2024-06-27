@@ -320,7 +320,7 @@ const Candidate = () => {
                             />
                         </div>
                         <div className="form-group">
-                            <label htmlFor="degree" className="form-label">8. Highest degree attained</label>
+                            <label htmlFor="degree" className="form-label">8. Highest degree </label>
                             <select 
                                 className="form-select" 
                                 id="degree" 
