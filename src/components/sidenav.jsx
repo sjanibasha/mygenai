@@ -26,7 +26,7 @@
 // import Diversity3Icon from "@mui/icons-material/Diversity3";
 
 // import GenAi from "./GenAi";
-// import LayoutTextFields from "./candidate"; // Imported candidate component
+// import LayoutTextFields from "./Candidate"; // Imported Candidate component
 
 // const drawerWidth = 240;
 
@@ -114,7 +114,7 @@
 //   const renderContent = () => {
 //     switch (selectedIndex) {
 //       case 2:
-//         return <LayoutTextFields />; // Render the candidate component
+//         return <LayoutTextFields />; // Render the Candidate component
 //       case 3:
 //         return (
 //           <Typography paragraph>Talent search (if implemented)</Typography>
@@ -239,7 +239,7 @@ import Diversity3Icon from "@mui/icons-material/Diversity3";
 import BusinessCenterIcon from '@mui/icons-material/BusinessCenter';
 
 import GenAi from "./GenAi";
-import LayoutTextFields from "./candidate"; // Imported candidate component
+import LayoutTextFields from "./Candidate"; // Imported Candidate component
 
 const drawerWidth = 240;
 
@@ -329,7 +329,7 @@ const Sidenav = () => {
   const renderContent = () => {
     switch (selectedIndex) {
       case 2:
-        return <LayoutTextFields />; // Render the candidate component
+        return <LayoutTextFields />; // Render the Candidate component
       case 3:
         return (
           <Typography paragraph>Talent search (if implemented)</Typography>

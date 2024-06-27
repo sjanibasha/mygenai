@@ -29,10 +29,10 @@
 //           No reports found!
 //         </Typography>
 //         <Typography variant="body1" gutterBottom>
-//           Start by inviting candidates to the AI interview. You will then see the reports here.
+//           Start by inviting Candidates to the AI interview. You will then see the reports here.
 //         </Typography>
 //         <Button variant="contained" startIcon={<UpcomingIcon />} sx={{ backgroundColor: '#1a73e8', mt: 2 }}>
-//           Invite a candidate
+//           Invite a Candidate
 //         </Button>
 //       </Paper>
 
@@ -87,10 +87,10 @@
 //           No reports found!
 //         </Typography>
 //         <Typography variant="body1" gutterBottom>
-//           Start by inviting candidates to the AI interview. You will then see the reports here.
+//           Start by inviting Candidates to the AI interview. You will then see the reports here.
 //         </Typography>
 //         <Button variant="contained" startIcon={<UpcomingIcon />} sx={{ backgroundColor: '#1a73e8', mt: 2 }} onClick={handleInviteCandidate}>
-//           Invite a candidate
+//           Invite a Candidate
 //         </Button>
 //       </Paper>
 
@@ -148,10 +148,10 @@
 //           No reports found!
 //         </Typography>
 //         <Typography variant="body1" gutterBottom>
-//           Start by inviting candidates to the AI interview. You will then see the reports here.
+//           Start by inviting Candidates to the AI interview. You will then see the reports here.
 //         </Typography>
 //         <Button variant="contained" startIcon={<UpcomingIcon />} sx={{ backgroundColor: '#1a73e8', mt: 2 }} onClick={handleInviteCandidate}>
-//           Invite a candidate
+//           Invite a Candidate
 //         </Button>
 //       </Paper>
 
@@ -206,10 +206,10 @@ const GenAi = () => {
           No reports found!
         </Typography>
         <Typography variant="body1" gutterBottom>
-          Start by inviting candidates to the AI interview. You will then see the reports here.
+          Start by inviting Candidates to the AI interview. You will then see the reports here.
         </Typography>
         <Button variant="contained" startIcon={<UpcomingIcon />} sx={{ ...commonStyles, mt: 2 }} onClick={handleInviteCandidate}>
-          Invite a candidate
+          Invite a Candidate
         </Button>
       </Paper>
 
